@@ -1,0 +1,9 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TempretureConvrerter\TempretureConvrerter\bin\Debug\TempretureConvrerter.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TempretureConvrerter\TempretureConvrerter\bin\Debug\TempretureConvrerter.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TempretureConvrerter\TempretureConvrerter\bin\Debug\TempretureConvrerter.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TempretureConvrerter\TempretureConvrerter\obj\Debug\TempretureConvrerter.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TempretureConvrerter\TempretureConvrerter\obj\Debug\TempretureConvrerter.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TempretureConvrerter\TempretureConvrerter\obj\Debug\TempretureConvrerter.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Tutorials\TempretureConvrerter\TempretureConvrerter\bin\Debug\TempretureConvrerter.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Tutorials\TempretureConvrerter\TempretureConvrerter\obj\Debug\TempretureConvrerter.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Tutorials\TempretureConvrerter\TempretureConvrerter\obj\Debug\TempretureConvrerter.pdb

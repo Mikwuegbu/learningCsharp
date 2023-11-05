@@ -1,0 +1,6 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\InnerException\InnerException\bin\Debug\InnerException.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\InnerException\InnerException\bin\Debug\InnerException.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\InnerException\InnerException\bin\Debug\InnerException.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\InnerException\InnerException\obj\Debug\InnerException.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\InnerException\InnerException\obj\Debug\InnerException.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\InnerException\InnerException\obj\Debug\InnerException.pdb

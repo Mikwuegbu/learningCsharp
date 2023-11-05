@@ -1,0 +1,13 @@
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Creating_A_TaxApp\Creating_A_TaxApp\bin\Debug\Creating_A_TaxApp.exe.config
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Creating_A_TaxApp\Creating_A_TaxApp\bin\Debug\Creating_A_TaxApp.exe
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Creating_A_TaxApp\Creating_A_TaxApp\bin\Debug\Creating_A_TaxApp.pdb
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Creating_A_TaxApp\Creating_A_TaxApp\obj\Debug\Creating_A_TaxApp.csprojResolveAssemblyReference.cache
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Creating_A_TaxApp\Creating_A_TaxApp\obj\Debug\Creating_A_TaxApp.Form1.resources
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Creating_A_TaxApp\Creating_A_TaxApp\obj\Debug\Creating_A_TaxApp.Properties.Resources.resources
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Creating_A_TaxApp\Creating_A_TaxApp\obj\Debug\Creating_A_TaxApp.csproj.GenerateResource.Cache
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Creating_A_TaxApp\Creating_A_TaxApp\obj\Debug\Creating_A_TaxApp.exe
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Creating_A_TaxApp\Creating_A_TaxApp\obj\Debug\Creating_A_TaxApp.pdb
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Creating_A_TaxApp\Creating_A_TaxApp\bin\Debug\Creating_A_TaxApp.exe.manifest
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Creating_A_TaxApp\Creating_A_TaxApp\bin\Debug\Creating_A_TaxApp.application
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Creating_A_TaxApp\Creating_A_TaxApp\obj\Debug\Creating_A_TaxApp.exe.manifest
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Creating_A_TaxApp\Creating_A_TaxApp\obj\Debug\Creating_A_TaxApp.application

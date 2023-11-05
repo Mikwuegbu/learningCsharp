@@ -1,0 +1,6 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

@@ -1,0 +1,9 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Collections\Collections\obj\Debug\Collections.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Tutorials\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Tutorials\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Tutorials\Collections\Collections\obj\Debug\Collections.pdb

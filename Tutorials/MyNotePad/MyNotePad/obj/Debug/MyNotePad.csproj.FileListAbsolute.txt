@@ -1,0 +1,9 @@
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe.config
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\MyNotePad\MyNotePad\bin\Debug\MyNotePad.pdb
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csprojResolveAssemblyReference.cache
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\MyNotePad\MyNotePad\obj\Debug\MyNotePad.mainNote.resources
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\MyNotePad\MyNotePad\obj\Debug\MyNotePad.Properties.Resources.resources
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.GenerateResource.Cache
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\MyNotePad\MyNotePad\obj\Debug\MyNotePad.exe
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\MyNotePad\MyNotePad\obj\Debug\MyNotePad.pdb

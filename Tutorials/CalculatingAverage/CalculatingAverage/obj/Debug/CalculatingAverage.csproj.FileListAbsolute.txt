@@ -1,0 +1,6 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CalculatingAverage\CalculatingAverage\bin\Debug\CalculatingAverage.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CalculatingAverage\CalculatingAverage\bin\Debug\CalculatingAverage.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CalculatingAverage\CalculatingAverage\bin\Debug\CalculatingAverage.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CalculatingAverage\CalculatingAverage\obj\Debug\CalculatingAverage.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CalculatingAverage\CalculatingAverage\obj\Debug\CalculatingAverage.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CalculatingAverage\CalculatingAverage\obj\Debug\CalculatingAverage.pdb

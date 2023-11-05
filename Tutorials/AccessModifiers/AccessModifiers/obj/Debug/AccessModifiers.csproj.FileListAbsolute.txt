@@ -1,0 +1,6 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb

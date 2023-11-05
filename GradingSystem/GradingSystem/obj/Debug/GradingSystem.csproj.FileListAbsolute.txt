@@ -1,0 +1,6 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\GradingSystem\GradingSystem\bin\Debug\GradingSystem.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\GradingSystem\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\GradingSystem\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\GradingSystem\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\GradingSystem\GradingSystem\obj\Debug\GradingSystem.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\GradingSystem\GradingSystem\obj\Debug\GradingSystem.pdb

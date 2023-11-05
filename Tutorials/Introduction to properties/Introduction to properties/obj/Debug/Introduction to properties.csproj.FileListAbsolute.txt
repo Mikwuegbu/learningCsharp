@@ -1,0 +1,6 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to properties\Introduction to properties\bin\Debug\Introduction to properties.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to properties\Introduction to properties\bin\Debug\Introduction to properties.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to properties\Introduction to properties\bin\Debug\Introduction to properties.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to properties\Introduction to properties\obj\Debug\Introduction to properties.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to properties\Introduction to properties\obj\Debug\Introduction to properties.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to properties\Introduction to properties\obj\Debug\Introduction to properties.pdb

@@ -1,0 +1,13 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TutorialLearning\TutorialLearning\bin\Debug\TutorialLearning.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TutorialLearning\TutorialLearning\obj\Debug\TutorialLearning.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TutorialLearning\TutorialLearning\obj\Debug\TutorialLearning.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TutorialLearning\TutorialLearning\bin\Debug\TutorialLearning.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TutorialLearning\TutorialLearning\bin\Debug\TutorialLearning.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TutorialLearning\TutorialLearning\obj\Debug\TutorialLearnings.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TutorialLearning\TutorialLearning\bin\Debug\TutorialLearning.exe.manifest
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TutorialLearning\TutorialLearning\bin\Debug\TutorialLearning.application
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TutorialLearning\TutorialLearning\obj\Debug\TutorialLearning.exe.manifest
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TutorialLearning\TutorialLearning\obj\Debug\TutorialLearning.application
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TutorialLearning(Chapter1-5)\TutorialLearning\bin\Debug\TutorialLearning.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TutorialLearning(Chapter1-5)\TutorialLearning\obj\Debug\TutorialLearning.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\TutorialLearning(Chapter1-5)\TutorialLearning\obj\Debug\TutorialLearning.pdb

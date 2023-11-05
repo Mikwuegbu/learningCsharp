@@ -1,0 +1,6 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\EXERCISES FROM COVERED TOPICS\Exe4Average\Exe4Average\bin\Debug\Exe4Average.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\EXERCISES FROM COVERED TOPICS\Exe4Average\Exe4Average\bin\Debug\Exe4Average.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\EXERCISES FROM COVERED TOPICS\Exe4Average\Exe4Average\bin\Debug\Exe4Average.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\EXERCISES FROM COVERED TOPICS\Exe4Average\Exe4Average\obj\Debug\Exe4Average.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\EXERCISES FROM COVERED TOPICS\Exe4Average\Exe4Average\obj\Debug\Exe4Average.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\EXERCISES FROM COVERED TOPICS\Exe4Average\Exe4Average\obj\Debug\Exe4Average.pdb

@@ -1,0 +1,6 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CubeOfANUmber\CubeOfANUmber\bin\Debug\CubeOfANUmber.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CubeOfANUmber\CubeOfANUmber\bin\Debug\CubeOfANUmber.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CubeOfANUmber\CubeOfANUmber\bin\Debug\CubeOfANUmber.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CubeOfANUmber\CubeOfANUmber\obj\Debug\CubeOfANUmber.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CubeOfANUmber\CubeOfANUmber\obj\Debug\CubeOfANUmber.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CubeOfANUmber\CubeOfANUmber\obj\Debug\CubeOfANUmber.pdb

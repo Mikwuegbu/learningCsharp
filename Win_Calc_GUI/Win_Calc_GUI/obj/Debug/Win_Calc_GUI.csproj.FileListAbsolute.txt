@@ -1,0 +1,13 @@
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Win_Calc_GUI\Win_Calc_GUI\bin\Debug\Win_Calc_GUI.exe.config
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Win_Calc_GUI\Win_Calc_GUI\obj\Debug\Win_Calc_GUI.csprojResolveAssemblyReference.cache
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Win_Calc_GUI\Win_Calc_GUI\obj\Debug\Win_Calc_GUI.Properties.Resources.resources
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Win_Calc_GUI\Win_Calc_GUI\obj\Debug\Win_Calc_GUI.csproj.GenerateResource.Cache
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Win_Calc_GUI\Win_Calc_GUI\bin\Debug\Win_Calc_GUI.exe
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Win_Calc_GUI\Win_Calc_GUI\bin\Debug\Win_Calc_GUI.pdb
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Win_Calc_GUI\Win_Calc_GUI\obj\Debug\Win_Calc_GUI.exe
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Win_Calc_GUI\Win_Calc_GUI\obj\Debug\Win_Calc_GUI.pdb
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Win_Calc_GUI\Win_Calc_GUI\bin\Debug\Win_Calc_GUI.exe.manifest
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Win_Calc_GUI\Win_Calc_GUI\bin\Debug\Win_Calc_GUI.application
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Win_Calc_GUI\Win_Calc_GUI\obj\Debug\Win_Calc_GUI.exe.manifest
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Win_Calc_GUI\Win_Calc_GUI\obj\Debug\Win_Calc_GUI.application
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Win_Calc_GUI\Win_Calc_GUI\obj\Debug\Win_Calc_GUI.MyBasic_Calc.resources

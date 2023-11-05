@@ -1,0 +1,6 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to Interfaces\Introduction to Interfaces\bin\Debug\Introduction to Interfaces.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to Interfaces\Introduction to Interfaces\bin\Debug\Introduction to Interfaces.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to Interfaces\Introduction to Interfaces\bin\Debug\Introduction to Interfaces.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to Interfaces\Introduction to Interfaces\obj\Debug\Introduction to Interfaces.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to Interfaces\Introduction to Interfaces\obj\Debug\Introduction to Interfaces.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to Interfaces\Introduction to Interfaces\obj\Debug\Introduction to Interfaces.csprojResolveAssemblyReference.cache

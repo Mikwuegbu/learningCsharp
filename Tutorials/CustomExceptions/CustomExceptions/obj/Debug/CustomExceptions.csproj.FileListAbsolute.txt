@@ -1,0 +1,6 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb

@@ -1,0 +1,6 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\PickMin\PickMin\bin\Debug\PickMin.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\PickMin\PickMin\bin\Debug\PickMin.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\PickMin\PickMin\bin\Debug\PickMin.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\PickMin\PickMin\obj\Debug\PickMin.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\PickMin\PickMin\obj\Debug\PickMin.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\PickMin\PickMin\obj\Debug\PickMin.pdb

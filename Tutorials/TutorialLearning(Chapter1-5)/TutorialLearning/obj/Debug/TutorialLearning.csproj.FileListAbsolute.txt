@@ -1,0 +1,6 @@
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\TutorialLearning\TutorialLearning\bin\Debug\TutorialLearning.exe.config
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\TutorialLearning\TutorialLearning\bin\Debug\TutorialLearning.exe
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\TutorialLearning\TutorialLearning\bin\Debug\TutorialLearning.pdb
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\TutorialLearning\TutorialLearning\obj\Debug\TutorialLearning.csprojResolveAssemblyReference.cache
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\TutorialLearning\TutorialLearning\obj\Debug\TutorialLearning.exe
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\TutorialLearning\TutorialLearning\obj\Debug\TutorialLearning.pdb

@@ -1,0 +1,7 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\AccessModifiersContinue\AssemblyTwo\bin\Debug\AssemblyTwo.dll
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\AccessModifiersContinue\AssemblyTwo\bin\Debug\AssemblyTwo.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\AccessModifiersContinue\AssemblyTwo\obj\Debug\AssemblyTwo.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\AccessModifiersContinue\AssemblyTwo\obj\Debug\AssemblyTwo.dll
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\AccessModifiersContinue\AssemblyTwo\obj\Debug\AssemblyTwo.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\AccessModifiersContinue\AssemblyTwo\bin\Debug\AssemblyOne.dll
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\AccessModifiersContinue\AssemblyTwo\bin\Debug\AssemblyOne.pdb

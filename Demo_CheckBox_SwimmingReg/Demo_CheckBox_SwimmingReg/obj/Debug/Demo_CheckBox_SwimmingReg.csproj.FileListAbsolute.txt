@@ -1,0 +1,9 @@
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Demo_CheckBox_SwimmingReg\Demo_CheckBox_SwimmingReg\bin\Debug\Demo_CheckBox_SwimmingReg.exe.config
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Demo_CheckBox_SwimmingReg\Demo_CheckBox_SwimmingReg\bin\Debug\Demo_CheckBox_SwimmingReg.exe
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Demo_CheckBox_SwimmingReg\Demo_CheckBox_SwimmingReg\bin\Debug\Demo_CheckBox_SwimmingReg.pdb
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Demo_CheckBox_SwimmingReg\Demo_CheckBox_SwimmingReg\obj\Debug\Demo_CheckBox_SwimmingReg.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Demo_CheckBox_SwimmingReg\Demo_CheckBox_SwimmingReg\obj\Debug\Demo_CheckBox_SwimmingReg.Form1.resources
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Demo_CheckBox_SwimmingReg\Demo_CheckBox_SwimmingReg\obj\Debug\Demo_CheckBox_SwimmingReg.Properties.Resources.resources
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Demo_CheckBox_SwimmingReg\Demo_CheckBox_SwimmingReg\obj\Debug\Demo_CheckBox_SwimmingReg.csproj.GenerateResource.Cache
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Demo_CheckBox_SwimmingReg\Demo_CheckBox_SwimmingReg\obj\Debug\Demo_CheckBox_SwimmingReg.exe
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Demo_CheckBox_SwimmingReg\Demo_CheckBox_SwimmingReg\obj\Debug\Demo_CheckBox_SwimmingReg.pdb

@@ -1,0 +1,5 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to Structs\Introduction to Structs\bin\Debug\Introduction to Structs.exe.config
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to Structs\Introduction to Structs\bin\Debug\Introduction to Structs.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to Structs\Introduction to Structs\bin\Debug\Introduction to Structs.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to Structs\Introduction to Structs\obj\Debug\Introduction to Structs.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\Introduction to Structs\Introduction to Structs\obj\Debug\Introduction to Structs.pdb

@@ -1,0 +1,5 @@
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\PartialMethods\PartialMethods\bin\Debug\PartialMethods.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\PartialMethods\PartialMethods\bin\Debug\PartialMethods.pdb
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\PartialMethods\PartialMethods\obj\Debug\PartialMethods.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\PartialMethods\PartialMethods\obj\Debug\PartialMethods.exe
+C:\Users\MARK STEPHEN PC\Documents\Visual Studio 2013\Projects\PartialMethods\PartialMethods\obj\Debug\PartialMethods.pdb

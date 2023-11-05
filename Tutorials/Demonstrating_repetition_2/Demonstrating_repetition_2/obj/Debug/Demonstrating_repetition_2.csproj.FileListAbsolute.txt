@@ -1,0 +1,6 @@
+c:\users\mark stephen pc\documents\visual studio 2013\Projects\Demonstrating_repetition_2\Demonstrating_repetition_2\bin\Debug\Demonstrating_repetition_2.exe.config
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Demonstrating_Repetition_2\Demonstrating_repetition_2\bin\Debug\Demonstrating_repetition_2.exe
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Demonstrating_Repetition_2\Demonstrating_repetition_2\bin\Debug\Demonstrating_repetition_2.pdb
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Demonstrating_Repetition_2\Demonstrating_repetition_2\obj\Debug\Demonstrating_repetition_2.csprojResolveAssemblyReference.cache
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Demonstrating_Repetition_2\Demonstrating_repetition_2\obj\Debug\Demonstrating_repetition_2.exe
+C:\Users\MARK STEPHEN PC\documents\visual studio 2013\Projects\Demonstrating_Repetition_2\Demonstrating_repetition_2\obj\Debug\Demonstrating_repetition_2.pdb
